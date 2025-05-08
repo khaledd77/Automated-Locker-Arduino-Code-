@@ -2,12 +2,14 @@
 #include<Servo.h>
 #include<Wire.h>
 #include<LiquidCrystal_I2C.h>
-void setup() {
+void setup() 
+{
   // put your setup code here, to run once:
 
 }
 
-void loop() {
+void loop() 
+{
   // put your main code here, to run repeatedly:
 
 }
